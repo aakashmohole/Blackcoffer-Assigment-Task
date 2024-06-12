@@ -1,0 +1,13 @@
+pandas 
+matplotlib.pyplot
+numpy 
+os
+requests
+bs4 
+nltk
+nltk.tokenize
+from nltk.corpus  
+re
+nltk.download('punkt')
+nltk.download('stopwords')
+string
